@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\Navig\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\Anup\Downloads\Navig\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_55d528e977c0f3e5269d51c02cc92527252bba53\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\Navig\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\Users\Anup\Downloads\Navig\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.0.1_49e9caf445388a21e4a4dbbbbf17abaee15bf334\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\Navig\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Anup\Downloads\Navig\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_933b5d37420b059c0e6b82ecd57c8cc4873f921d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\Navig\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="C:\Users\Anup\Downloads\Navig\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-v4-impl-10.0.1_34bd8ef10768c9074ccd30fe6c4cdb35db2930f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\Navig\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="486125f729aa6da9eb7c2131cdb6e9427aa4cf58">
+        <dex dex="C:\Users\Anup\Downloads\Navig\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_e5e86427eb44e3bd6f5c7391ef64e6533abc3577\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\Navig\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="C:\Users\Anup\Downloads\Navig\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-10.0.1_ab7ccc8e6755ec99a4a7580abdf816389187d413\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\Navig\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="C:\Users\Anup\Downloads\Navig\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-10.0.1_8d19b368b3f23745dce654ce02e26546e970d1c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\Navig\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="cfac2d0b4ee0d27f647ae1babdf75ac689a144c1">
+        <dex dex="C:\Users\Anup\Downloads\Navig\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_fe67f32337bb35e25fc43924fbce1fc5b3772f79\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\Navig\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="C:\Users\Anup\Downloads\Navig\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-10.0.1_1d21e67f6efa736e4fe48c964215b352b785355c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\Navig\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="C:\Users\Anup\Downloads\Navig\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-10.0.1_7427783147943cf17a353cbc825c031fc70dd050\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\Navig\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="C:\Users\Anup\Downloads\Navig\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-10.0.1_1f4cb647606b1902409445bd89e256fcb0ba713f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\Navig\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="C:\Users\Anup\Downloads\Navig\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-10.0.1_c01b1efaf56d2989eda863c2ee5375d826cb9fe5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\Navig\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\Users\Anup\Downloads\Navig\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.0.1_7d74bda3b1d75532b655e610d855fecefec14683\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\Navig\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\Anup\Downloads\Navig\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.1_5baf1a33c2465a881b28af25635d15ce4f9ba6fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\Navig\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\Anup\Downloads\Navig\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_e715f4d75bf69af17b385d009bdf72f192d10a33\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\Navig\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="C:\Users\Anup\Downloads\Navig\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-10.0.1_7a02e5de8993348042b3ba1c63512c84447d9259\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\Navig\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="C:\Users\Anup\Downloads\Navig\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-10.0.1_44142384f434a4cb733a02002d8a575be0b36e33\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\Navig\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="C:\Users\Anup\Downloads\Navig\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-10.0.1_d94c302fb6aee42c45c30f69037c61d2055a8bbd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\Navig\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Users\Anup\Downloads\Navig\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.0.1_3ce10814e9ff1097b0b434d105b127de94b0c8a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\Navig\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\Anup\Downloads\Navig\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_1dd51e772cd230170304beeac7f5c2e4b9f0ff77\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\Navig\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="C:\Users\Anup\Downloads\Navig\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-10.0.1_b209eadf33148115ddab064840d4d05957d167f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\Navig\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\Anup\Downloads\Navig\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.1_b8b551e7012e45547f755d94c8fcec74bebec188\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\Navig\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="C:\Users\Anup\Downloads\Navig\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-10.0.1_87d3436e8ad7748d4917037bf919b6f459876c1f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\Navig\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="C:\Users\Anup\Downloads\Navig\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-10.0.1_a40036db337ac81d2e1e3459d7ef0611498c25bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\Navig\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="C:\Users\Anup\Downloads\Navig\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-10.0.1_527d4e9287c8dbe1351747dc9e7fd8655c0413c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\Navig\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="C:\Users\Anup\Downloads\Navig\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-10.0.1_6bf8c224393a1ec9d11e8497061cc65ba9f2f7fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\Navig\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Anup\Downloads\Navig\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_f7e5008d7b218b882e019df4aff6ccc04c8bb75e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\Navig\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="C:\Users\Anup\Downloads\Navig\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-10.0.1_cafb2a1e582b03688f59d184d71c9874b719e969\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\Navig\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="C:\Users\Anup\Downloads\Navig\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-10.0.1_119042b4b3822a41169a72f851fec8eb5a91da77\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\Navig\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="C:\Users\Anup\Downloads\Navig\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-10.0.1_5f761f1f54492a065f84dbb9d833f04ff2b1414b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\Navig\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="C:\Users\Anup\Downloads\Navig\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_362a513eb0b7acabd7c41c6459f75e04c97a1ae3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\Navig\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="C:\Users\Anup\Downloads\Navig\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-10.0.1_4941aacd261d44eb82f817da25cfb9d8bf8ed673\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\Navig\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="C:\Users\Anup\Downloads\Navig\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-10.0.1_4f681e2567316e9d70acca41a127f7a8ba1490e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\Navig\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="C:\Users\Anup\Downloads\Navig\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-10.0.1_9fd17eeb5cc42d9d9a531cb17ae43075a06add2f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\Navig\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="C:\Users\Anup\Downloads\Navig\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-10.0.1_dcd7fef6801c48fd466603c4664de394379d8164\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\Navig\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="C:\Users\Anup\Downloads\Navig\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-10.0.1_0ae8abbe7fedf66ee38ac1aafc830e1a3e603983\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\Navig\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="C:\Users\Anup\Downloads\Navig\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-10.0.1_210bb6ef60195386431d53a6969622645d5542e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\Navig\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="C:\Users\Anup\Downloads\Navig\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-10.0.1_e8d08af01f821e4ff2081d618be71a665abbd9e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\Navig\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="C:\Users\Anup\Downloads\Navig\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-10.0.1_f09e8632953e2c0c4028be709c72df9396febd33\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\Navig\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\Anup\Downloads\Navig\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.0.1_cda20953afa0c8a372ea7b49e1ff431ae2af6484\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\Navig\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="C:\Users\Anup\Downloads\Navig\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_4f4f995d05b4efc8666977dfb6a4d24f470d3524\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\Navig\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="C:\Users\Anup\Downloads\Navig\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-10.0.1_fa7dae56a6c011a76b42f6769de439e111d64236\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\Navig\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\Anup\Downloads\Navig\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_b8ea6c0eac20142012357972d4b85e3afa5adbe5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\Navig\app\build\intermediates\exploded-aar\com.google.firebase\firebase-appindexing\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="C:\Users\Anup\Downloads\Navig\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-appindexing-10.0.1_8a566e1f04df8fa6ae97cb97108b1672d7e7a6f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\Navig\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\Anup\Downloads\Navig\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_e387dc8d757a1553606210d8921b81a470af38f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\Navig\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\Anup\Downloads\Navig\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_bbd908976d0cf3473756d05a298d0ee06692fb44\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\Navig\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="C:\Users\Anup\Downloads\Navig\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-10.0.1_5f5aca693ec603de7fbbcea667c04d651c5b5d8f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\Anup\Downloads\Navig\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_1e368e5a60f1bf220b7ab7d3078a4a5f44dd411b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\Navig\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\Users\Anup\Downloads\Navig\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.0.1_014fd88cf7901c9f835ceb7dfb8354ab81d8133b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\Navig\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="C:\Users\Anup\Downloads\Navig\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-10.0.1_f21901602ff820c7cacaac3df7ae75b4c423e6a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\Navig\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="C:\Users\Anup\Downloads\Navig\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-10.0.1_6502b64c05597c70d1bd0231cea11898b6ac2942\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\Navig\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="C:\Users\Anup\Downloads\Navig\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-10.0.1_431efca1e809668474c0a8b3902fc4c301dca0ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\Navig\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\Anup\Downloads\Navig\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_8a0347ad5e79c2d63f0b8bae8393cae3ca3395df\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\Navig\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="C:\Users\Anup\Downloads\Navig\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-10.0.1_7c8e8934093bbcefedb6f0fb9870911600bfff88\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\Navig\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\Anup\Downloads\Navig\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.1_f177e954bc204fbe2a338c8ea49fd4ce669794e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\Navig\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\Anup\Downloads\Navig\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_cfa659289e53890af6f5757755347f2b4891acb6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\Navig\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="C:\Users\Anup\Downloads\Navig\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-10.0.1_6db8c4be82e1e467cb4c6c95bdff1e48fd77a890\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\Navig\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\Anup\Downloads\Navig\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_a909acb8928d8f79925c59a22c88db7366b29fee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\Navig\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="C:\Users\Anup\Downloads\Navig\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-10.0.1_6d6397d5dc8f42cf9e49cfb3a9c44b65b15785d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\Navig\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="C:\Users\Anup\Downloads\Navig\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-10.0.1_c15515c1ef5413b88a5d10711bbe13c4a0c0cf0e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\Navig\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="C:\Users\Anup\Downloads\Navig\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-10.0.1_1edae1b0eb138aa11bfa26bb3037b437c08d7ebf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\Navig\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="C:\Users\Anup\Downloads\Navig\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_daaec646932ec436a6928506e975bb533fad12ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\Navig\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="C:\Users\Anup\Downloads\Navig\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-10.0.1_7585836b8afe4d41674ed65ad856f4466a4d97f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\Navig\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\Users\Anup\Downloads\Navig\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-10.0.1_6907c7ef16b3f0c12e431fc0c0a29ccf49a32571\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\Navig\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\Anup\Downloads\Navig\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_e32b1a8ca00e1ed2dcda0bdd415caddfeb8d79d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\Navig\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="C:\Users\Anup\Downloads\Navig\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-10.0.1_3dbaf888f346a76d95e720fffa24d08000ee75a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\Navig\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="C:\Users\Anup\Downloads\Navig\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-10.0.1_8ea6a7512f530669237cc19c487d41890d166b44\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\Navig\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="C:\Users\Anup\Downloads\Navig\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-10.0.1_1206bbd6f0438ff947cc535db869aeed48d7362d\classes.dex" />
+    </item>
+
+</items>
